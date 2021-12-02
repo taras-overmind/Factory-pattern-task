@@ -1,0 +1,4 @@
+interface INewElectricitySystem
+{
+    String MatchWideSocket();
+}
